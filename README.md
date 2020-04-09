@@ -28,14 +28,17 @@ client side, please follow these instructions:
 
 ## Robot Manufacturing
 
+The following Excel lists all parts needed from different Suppliers:
+* [Order List](https://drive.google.com/file/d/1a2T2EMYcjE4ETzQGzcHxnEOi88MuwoY8/view?usp=sharing)
+
 Building the hardware components is straightforward. All drawings are ready
 prepared to be produced with various production techniques. The overall [CAD models](https://drive.google.com/a/ethz-asl.ch/file/d/1jhX4gtn3jKzNdc6CiImZ6_Q0kAOqgfmE/view?usp=sharing) were created with NX 12 and can be downloaded online.
 
 Furthermore, we have readily prepared drawings to be send as jobs for:
-* [Laser cutting MDF](https://drive.google.com/a/ethz-asl.ch/file/d/1gHZlsFpoMsfyPtTybpoXwkbFba4WIa5H/view?usp=sharing)
-* [Laser cutting Acryl](https://drive.google.com/a/ethz-asl.ch/file/d/1aXaRlv5ef8TgtKJ0yKYKl0ca8UT075qw/view?usp=sharing)
-* [3D printing](https://drive.google.com/a/ethz-asl.ch/file/d/15Xq_9GQSyEfsd3SRM_o0gwsrJYYaENEt/view?usp=sharing)
-* [Cutting aluminium](https://drive.google.com/a/ethz-asl.ch/file/d/1oTqkmU1R2H24GM3zQfTbx0Vdpzz3VQ2U/view?usp=sharing)
+* [Laser cutting MDF]()
+* [Laser cutting Acryl]()
+* [3D printing]()
+* [Cutting aluminium]()
 * [Aluminium Profiles]()
 
 ## Electronics Manufacturing
@@ -44,6 +47,7 @@ Furthermore, we have readily prepared drawings to be send as jobs for:
 
 ## Robot Assembly
 
+To assemble the robot this [Assembly Manual](https://docs.google.com/document/d/1HWqjT9xxxzoKCoKBezcPhwew8lTUAeicbpn2mJye_uw/edit?usp=sharing) will give you every instruction you need
 
 
 ## Robot-setup
